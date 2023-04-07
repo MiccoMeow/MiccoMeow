@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="twocats.jpeg" />
+Meow，🐱，🐈
+
+喵喵主义万岁！
+Long live the meowism！
