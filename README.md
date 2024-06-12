@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 <img src="twocats.jpeg" />
 Meow，🐱，🐈
 
+已分项重组n次 日语名「香風音子/かふうねこ」　英文名Micco
+
 喵喵主义万岁！
 Long live the meowism！
+  这个是咱的猫抓板
+<a href="https://github.com/MiccoMeow/Scratching_board">
