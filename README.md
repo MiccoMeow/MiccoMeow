@@ -22,3 +22,6 @@ Meow，🐱，🐈
 喵喵主义万岁！
 Long live the meowism！
   这个是咱的<a href="https://github.com/MiccoMeow/Scratching_board">猫抓板</a>
+- 📫 How to reach me: t.me/hyangpung 或 mailto:micco@gmx.us
+- 😄 Pronouns: she/her  &&  meow/miao
+- ⚡ Fun fact: 
