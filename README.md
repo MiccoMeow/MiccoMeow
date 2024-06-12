@@ -21,4 +21,4 @@ Meow，🐱，🐈
 
 喵喵主义万岁！
 Long live the meowism！
-  这个是咱的<a href="https://github.com/MiccoMeow/Scratching_board">猫抓板</>
+  这个是咱的<a href="https://github.com/MiccoMeow/Scratching_board">猫抓板</a>
